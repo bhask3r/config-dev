@@ -1,9 +1,0 @@
-rabbitmq:
-  queue:
-    name: demoqueue
-    jsonName: json-queue
-  exchange:
-    name: demoexchange
-  routing:
-    key: routing_key
-    jsonKey: routing_json_key
